@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/victor/Documents/Development/Android/Android Studio/Project/Foundation/Cordova/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/victor/Documents/Development/Android/Android Studio/Project/Foundation/Cordova/app/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 3,
+                        "startOffset": 830,
+                        "endColumn": 54,
+                        "endOffset": 881
+                    }
+                }
+            }
+        ]
+    }
+]
